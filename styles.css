@@ -26,7 +26,7 @@ body, html {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    background-image: url('Flux_Dev_A_brand_new_large_and_sleek_tractor_is_depicted_facin_2.jpg'); /* Замість цього шляху вставте реальний */
+    background-image: url('Flux_Dev_A_brand_new_large_and_sleek_tractor_is_depicted_facin_2.jpg');
     background-size: cover;
     background-position: center;
     animation: avatarAnim 2s forwards;
@@ -100,7 +100,6 @@ body, html {
     }
 }
 
-/* Анімація для зникнення через 5 секунд */
 @keyframes fadeOut {
     0% {
         opacity: 1;
